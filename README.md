@@ -30,17 +30,22 @@
 | [mirai-login-solver-sakura](https://github.com/KasukuSakura/mirai-login-solver-sakura) | 【必装】验证处理工具，主要是为了优化和方便处理各种验证码     |
 | [qsign-1.0.9.mirai2](https://github.com/MrXiaoM/qsign)       | 【必装】签名服务                                             |
 
-### 游戏功能插件
+### 游戏类插件
 
-| 插件名与链接                                                 | 论坛链接                                   | 描述                                                         | README                                                       |
+| 插件名与链接                                           | 论坛链接                                   | 描述                                                         | README                 |
+| ------------------------------------------------------ | ------------------------------------------ | ------------------------------------------------------------ | ---------------------- |
+| [MuteGames](https://github.com/EvolvedGhost/MuteGames) | [1412](https://mirai.mamoe.net/topic/1412) | 一个以 [Mirai-Console](https://github.com/mamoe/mirai) 为基础开发并为了满足群友PVP需求和抖M需求开发的禁言游戏集合 | [MuteGames-README.md](./游戏功能插件README/MuteGames-README.md)|
+|                                                        |                                            |                                                              |                        |
+|                                                        |                                            |                                                              |                        |
+|                                                        |                                            |                                                              |                        |
+|                                                        |                                            |                                                              |                        |
+|                                                        |                                            |                                                              |                        |
+
+### 工具类插件
+
+| 插件名与链接                                                 | 论坛链接                                   | 描述                                                         | README |
 | ------------------------------------------------------------ | ------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Mirai Economy Core](https://github.com/cssxsh/mirai-economy-core) |                                            | Mirai 经济服务前置插件，支持多货币和事件系统                 |                                                              |
-|                                                              |                                            |                                                              |                                                              |
-|                                                              |                                            |                                                              |                                                              |
-| [MuteGames](https://github.com/EvolvedGhost/MuteGames)       | [1412](https://mirai.mamoe.net/topic/1412) | 一个以 [Mirai-Console](https://github.com/mamoe/mirai) 为基础开发并为了满足群友PVP需求和抖M需求开发的禁言游戏集合 | [MuteGames-README.md](./游戏功能插件README/MuteGames-README.md) |
-|                                                              |                                            |                                                              |                                                              |
-|                                                              |                                            |                                                              |                                                              |
-|                                                              |                                            |                                                              |                                                              |
-|                                                              |                                            |                                                              |                                                              |
-|                                                              |                                            |                                                              |                                                              |
+| [DrawMeme](https://github.com/LaoLittle/DrawMeme)            | [963](https://mirai.mamoe.net/topic/963) | 基于Skiko的奇怪的图片生成器<br>使用本插件需要前置插件：[SkikoMirai](https://github.com/LaoLittle/SkikoMirai/releases)<br/>使用前请将字体文件放置于SkikoMirai的数据目录内的Fonts文件夹内 |                                                              |
+| [Petpet](https://github.com/Dituon/petpet)                   | [1246](https://mirai.mamoe.net/topic/1246) | Petpet - 生成各种奇怪的图片<br>已更新 5.4版本, 支持多线程, 可自定义 头像 文字 坐标 概率 关键词 频率限制 等参数 | [petpet-README.md](./游戏功能插件README/petpet-README.md)    |
 
