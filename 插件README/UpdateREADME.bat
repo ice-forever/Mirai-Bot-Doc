@@ -8,5 +8,7 @@ curl -o "KeywordRemind-README.md" "https://raw.githubusercontent.com/MskTmi/Keyw
 curl -o "Mirai Economy Core-README.md" "https://raw.githubusercontent.com/cssxsh/mirai-economy-core/main/README.md"
 curl -o "Hammer Mirai Help-README.md" "https://raw.githubusercontent.com/ArgonarioD/hammer-mirai-help/main/README.md"
 curl -o "BilibiliDynamic MiraiPlugin-README.md" "https://raw.githubusercontent.com/Colter23/bilibili-dynamic-mirai-plugin/v3/README.md"
+cd .\mirai-console-lolicon.wiki\
+git pull
 echo 插件的README文档更新完成!!
 pause

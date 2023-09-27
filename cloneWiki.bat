@@ -1,0 +1,1 @@
+git submodule add https://github.com/Samarium150/mirai-console-lolicon.wiki.git .\²å¼þREADME\mirai-console-lolicon.wiki
