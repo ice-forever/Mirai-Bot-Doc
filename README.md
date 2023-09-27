@@ -50,4 +50,5 @@
 | [bilibili-dynamic-mirai-plugin](https://github.com/Colter23/bilibili-dynamic-mirai-plugin) | [792](https://mirai.mamoe.net/topic/792) | B站动态/直播检测插件 v3船新版本 低延迟 美观 可配置性高<br>一个可低延迟检测 B 站动态/直播并转发到 Q 群的 [Mirai](https://github.com/mamoe/mirai) 插件 | |
 | [DrawMeme](https://github.com/LaoLittle/DrawMeme)            | [963](https://mirai.mamoe.net/topic/963) | 基于Skiko的奇怪的图片生成器<br>使用本插件需要前置插件：[SkikoMirai](https://github.com/LaoLittle/SkikoMirai/releases)<br/>使用前请将字体文件放置于SkikoMirai的数据目录内的Fonts文件夹内 |                                                              |
 | [Petpet](https://github.com/Dituon/petpet)                   | [1246](https://mirai.mamoe.net/topic/1246) | Petpet - 生成各种奇怪的图片<br>已更新 5.4版本, 支持多线程, 可自定义 头像 文字 坐标 概率 关键词 频率限制 等参数 | [petpet-README.md](./插件README/petpet-README.md)    |
+| [Hammer Mirai Help](https://github.com/ArgonarioD/hammer-mirai-help) | [2097](https://mirai.mamoe.net/topic/2097) | 一个用以组织 Mirai Console 装载的插件们的帮助信息的 Mirai Console 插件；<br/>为 Mirai Console 的用户提供统一的、简单的、可高度自定义的帮助信息展示方式；<br/>为 Mirai Console 的插件开发者提供简单且统一的帮助信息展示方式和接口 |  |
 
