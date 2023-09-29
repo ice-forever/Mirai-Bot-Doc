@@ -50,7 +50,8 @@
 | ------------------------------------------------------------ | ------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [mirai-console-lolicon](https://github.com/Samarium150/mirai-console-lolicon) | [594](https://mirai.mamoe.net/topic/594) | 在群内随机发送来自 [Lolicon API v2](https://api.lolicon.app/#/setu) 的图片(默认30s自动撤回+60s冷却)，支持标签检索和JSON高级检索<br>使用文档已经移到了 [Wiki](https://github.com/Samarium150/mirai-console-lolicon/wiki) 页面 | [本地Wiki](./插件README/mirai-console-lolicon.wiki/Home.md) |
 | [PicPlug](https://github.com/VatinaCharo/PicPlug)            | [682](https://mirai.mamoe.net/topic/682)   | 简单易用的机器人发图插件                                     | [PicPlug-README.md](./插件README/PicPlug-README.md) |
-| [DrawMeme](https://github.com/LaoLittle/DrawMeme) 【与[Meme Helper](https://github.com/cssxsh/meme-helper) 在功能上有重叠，重叠的会处理两次】 | [963](https://mirai.mamoe.net/topic/963) | 基于Skiko的奇怪的图片生成器<br>使用本插件需要前置插件：[SkikoMirai](https://github.com/LaoLittle/SkikoMirai/releases)<br/>使用前请将字体文件放置于SkikoMirai的数据目录内的Fonts文件夹内 | 【弃用】 |
+| [SimpleTarot](https://github.com/LaoLittle/SimpleTarot) | [892](https://mirai.mamoe.net/topic/892) | 好看的二次元塔罗牌 | [SimpleTarot-README.md](./插件README/SimpleTarot-README.md) |
+| [DrawMeme](https://github.com/LaoLittle/DrawMeme) 【与[Meme Helper](https://github.com/cssxsh/meme-helper) 在功能上有重叠，重叠的会处理两次】【通过禁用冲突模块权限可以解决冲突问题】 | [963](https://mirai.mamoe.net/topic/963) | 基于Skiko的奇怪的图片生成器<br>使用本插件需要前置插件：[SkikoMirai](https://github.com/LaoLittle/SkikoMirai/releases)<br/>使用前请将字体文件放置于SkikoMirai的数据目录内的Fonts文件夹内 | 【仅论坛有说明】 |
 | [Petpet](https://github.com/Dituon/petpet)                   | [1246](https://mirai.mamoe.net/topic/1246) | Petpet - 生成各种奇怪的图片<br>已更新 5.4版本, 支持多线程, 可自定义 头像 文字 坐标 概率 关键词 频率限制 等参数 | [petpet-README.md](./插件README/petpet-README.md)    |
 | [Meme Helper](https://github.com/cssxsh/meme-helper) 【与[DrawMeme](https://github.com/LaoLittle/DrawMeme) 在功能上有重叠，重叠的会处理两次】【推荐使用，有权限控制】 | [1271](https://mirai.mamoe.net/topic/1271) | 表情包生成器，游戏王，幻影坦克，支持Termux                   | [Meme Helper-README.md](./插件README/Meme Helper-README.md) |
 
@@ -60,7 +61,7 @@
 
 | 项目名与链接                                   | 论坛链接                                   | 描述      | 环境                                                   | README |
 | ---------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------ | ------ | ------ |
-| [Manyana](https://github.com/avilliai/Manyana) | [2394](https://mirai.mamoe.net/topic/2394) | 功能整合:chatGLM_api/Pandora_ChatGPT+语音生成+自定义回复+关键词/涩图审核等 | py3.9 ||
+| [Manyana](https://github.com/avilliai/Manyana) | [2394](https://mirai.mamoe.net/topic/2394) | 功能整合:chatGLM_api/Pandora_ChatGPT+语音生成+自定义回复+关键词/涩图审核等 | py3.9 |[Manyana仓中README.md](../Manyana/README.md)|
 | [Theresa3rd-Bot](https://github.com/GardenHamster/Theresa3rd-Bot) |  |  | .net core 6.0 ||
 
 
