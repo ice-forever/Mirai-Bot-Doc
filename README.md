@@ -64,7 +64,7 @@
 | [Manyana](https://github.com/avilliai/Manyana) | [2394](https://mirai.mamoe.net/topic/2394) | 功能整合:chatGLM_api/Pandora_ChatGPT+语音生成+自定义回复+关键词/涩图审核等 | py3.9 |[Manyana仓中README.md](../Manyana/README.md)|
 | [Theresa3rd-Bot](https://github.com/GardenHamster/Theresa3rd-Bot) |  |  | .net core 6.0 ||
 
-
+## [5.API收录](./API收录.md)
 
 
 
@@ -101,3 +101,7 @@
 #### [v0.1.3]
 新增答题统计，现在记录玩家的答题 平均用时和最短用时（仅百秒内），答题的数量。
 新增排行榜，目前支持 均时榜、速度榜、答题榜 ，默认使用 `24点榜` 触发（为避免刷屏，每小时仅可查询一次）
+
+
+
+## 
