@@ -32,7 +32,7 @@
 | 插件名与链接                                                 | 论坛链接                                   | 描述                                                         | README                                                  |
 | ------------------------------------------------------------ | ------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------- |
 | [mirai-console-j24-plugin](https://github.com/jie65535/mirai-console-j24-plugin) | [1219](https://mirai.mamoe.net/topic/1291) | 24点小游戏插件<br>新增答题统计，现在记录玩家的答题 平均用时和最短用时（仅百秒内），答题的数量。<br/>新增排行榜，目前支持 均时榜、速度榜、答题榜 ，默认使用 `24点榜` 触发（为避免刷屏，每小时仅可查询一次） | [自整理README](#mirai-console-j24-plugin)               |
-| [MuteGames](https://github.com/EvolvedGhost/MuteGames)       | [1412](https://mirai.mamoe.net/topic/1412) | 一个以 [Mirai-Console](https://github.com/mamoe/mirai) 为基础开发并为了满足群友PVP需求和抖M需求开发的禁言游戏集合 | [MuteGames-README.md](./插件README/MuteGames-README.md) |
+| [MuteGames](https://github.com/EvolvedGhost/MuteGames)       | [1412](https://mirai.mamoe.net/topic/1412) | 一个以 [Mirai-Console](https://github.com/mamoe/mirai) 为基础开发并为了满足群友PVP需求和抖M需求开发的禁言游戏集合 | [MuteGames-README.md](插件README/MuteGames-README.md) |
 |                                                              |                                            |                                                              |                                                         |
 
 ### 工具类插件
