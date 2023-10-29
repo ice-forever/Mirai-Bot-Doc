@@ -23,7 +23,7 @@
 | [mirai-api-http](https://github.com/project-mirai/mirai-api-http) | 提供 HTTP 支持，允许使用其他编程语言的插件                   |
 | [LuckPerms-Mirai](https://github.com/Karlatemp/LuckPerms-Mirai) | 高级权限组插件，适合权限分配模型比较复杂的情况，并且可以提供网页UI的权限编辑器 (指令 `/lp editor`) |
 | [mirai-login-solver-sakura](https://github.com/KasukuSakura/mirai-login-solver-sakura) | 【必装】验证处理工具，主要是为了优化和方便处理各种验证码     |
-| [qsign-1.0.9.mirai2](https://github.com/MrXiaoM/qsign)       | 【必装】签名服务                                             |
+| [qsign](https://github.com/MrXiaoM/qsign/releases)           | 【必装】签名服务                                             |
 | [Mirai Device Generator](https://github.com/cssxsh/mirai-device-generator) | 【推荐使用】Mirai DeviceInfo 生成器                          |
 
 

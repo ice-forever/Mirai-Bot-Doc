@@ -21,8 +21,14 @@ Manyana指
 - 基于[Yiri-mirai](https://github.com/YiriMiraiProject/YiriMirai) 实现
 - 请确保已安装[fireFox浏览器](https://www.firefox.com.cn/)
 - 如果遇到使用问题，请在QQ群628763673反馈
+- **如果遇到code45问题，请使用[NTManyana(NTQQ)](https://github.com/avilliai/NTManyana)**
 # 部署
-**请注意，为便于后续更新，请按照搭建教程进行，如下载源码压缩包进行部署操作不当将无法获取到更新**
+**请注意，为便于后续更新，请按照搭建教程进行，如下载源码压缩包进行部署操作不当将无法获取到更新**<br>
+### dlc
+- [bert_vits2_sever](https://github.com/avilliai/Bert_Vits2_Sever)
+  - 更强大的中文语音合成
+- [NTManyana(NTQQ)](https://github.com/avilliai/NTManyana)
+  - 适用于NTQQ的Manyana
 ## 方法1：搭建工具部署(推荐)
 **如果你觉得搭建bot过于困难，请使用此方案**
 - 从release下载ManyanaLauncher.rar并解压(rar是一种压缩文件格式，不知道怎么用自己去下个winrar)
@@ -31,18 +37,14 @@ Manyana指
 ## 方法2：自行部署(如果你有一定bot搭建经验)
 - 请确保py版本为3.9
 - 请确保已安装[mirai-api-http](https://github.com/project-mirai/mirai-api-http) 并[正确配置](https://github.com/avilliai/wReply/blob/master/setting.yml)
-- 可选安装[mirai-login-solver-sakura](https://github.com/KasukuSakura/mirai-login-solver-sakura)
-- 可选安装[Mirai点歌插件](https://github.com/khjxiaogu/MiraiSongPlugin)
-- 可选安装[PetPet](https://github.com/Dituon/petpet)
 ### 操作步骤
 - 从release下载setUps.rar并解压，依次安装，一般默认下一步就行(**安装python的第一步一定要先勾选add to path**)。apk安装到手机。
-- 特别地，对于watt Toolkit，开始加速前一定要勾选上加速github。不过你既然都到这里了，想必也用不到它。
 - 克隆本仓库。找一个你喜欢的目录(**不要带中文**)打开cmd或git bash执行
 ```
 git clone https://github.com/avilliai/Manyana.git
 ```
-- 解压release中的site-packages.rar，打开cmd输入where python查看你的python安装目录
-- 进入python安装目录，找到Lib/site-packages，用release的site-packages替换它
+- 双击Manyana/一键部署脚本.bat即可
+- 把release的模型(1374_epochsm.pth)文件放置在Manyana/vits/voiceModel/nene
 - 运行一次Manyana/setUp.py以补全最近更新的内容
 ## 不管你用哪种搭建方式
 - 填写config.json(必做)与config/api.yaml(建议填写)
@@ -52,7 +54,13 @@ git clone https://github.com/avilliai/Manyana.git
 下面是一个填写示例实例
 {"botName": "Manyana", "botQQ": "1283992481", "master": "1840094972","mainGroup": "628763673", "vertify_key": "1234567890", "port": "23456"}
 ```
+# 启动bot
+Launcher内置了启动bot的功能，但实际上<br>**用Launcher启动与你手动依次启动下面三个文件是一样的**
+- qsign/sever.cmd
+- miraibot/内存溢出用这个启动.cmd
+- Manyana/启动脚本.bat
 
+前两个，即qsign和miraibot和你自己搭建的qsign和MiraiBot并无区别
 # 功能
 发送@bot 帮助 以查看功能列表，readme的更新并不及时
 ## 图片相关
